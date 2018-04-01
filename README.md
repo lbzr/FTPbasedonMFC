@@ -1,0 +1,2 @@
+# FTPbasedonMFC
+FTPDownloader &amp; Uploader
